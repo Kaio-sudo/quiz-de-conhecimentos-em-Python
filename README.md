@@ -73,3 +73,5 @@ python main.py
 ## 📌 Observação
 
 Este projeto foi desenvolvido para fins acadêmicos, com foco na prática dos fundamentos da linguagem Python e na aplicação dos conceitos estudados durante o curso.
+
+## desenvolvido por:## Kaio Henrique Cardoso Soares
